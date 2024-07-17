@@ -14,7 +14,7 @@ def multiply(x,y):
 
 def divide(x,y):
     """"divide function"""
-    pass
+    return x/y
 
 def squre_root(x,y):
     """"square root function"""
